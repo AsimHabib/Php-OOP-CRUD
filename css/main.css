@@ -1,0 +1,14 @@
+.top-pad{
+    padding-top:60px;
+}
+h1{
+    font-size: 32px;
+    font-weight: normal;
+}
+.err-red{
+    color: red;
+}
+/* Form */
+label {
+    font-weight:normal;
+}
